@@ -1,0 +1,9 @@
+
+b
+java:S3252X"@Use static access with "org.mockito.ArgumentMatchers" for "any".(’òíÃúÿÿÿÿ8ÔîÛâ.
+u
+java:S1450,"SRemove the "data" field and declare it as a local variable in the relevant methods.(ÍõÊúÿÿÿÿ8ÔîÛâ.
+{
+java:S1450+"YRemove the "attributes" field and declare it as a local variable in the relevant methods.(ƒÌ©ıÿÿÿÿ8ÔîÛâ.
+h
+java:S2259d"KA "NullPointerException" could be thrown; "projectTaskRS" is nullable here.(ºí8‹ºÜâ.
